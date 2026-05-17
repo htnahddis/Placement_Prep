@@ -1,0 +1,11 @@
+OrderID,Customer,Category,Amount,City,OrderDate,Month
+101,AMAN,Electronics,5000.0,Mumbai,2025-01-10,January
+102,RIYA,Fashion,2000.0,Delhi,2025-01-12,January
+103,KABIR,Electronics,3355.5555555555557,Mumbai,2025-01-15,January
+104,AMAN,Groceries,1500.0,Pune,2025-02-01,February
+105,SNEHA,Fashion,3000.0,Delhi,2025-02-10,February
+106,RIYA,Electronics,7000.0,Mumbai,2025-02-18,February
+107,KABIR,Fashion,2500.0,Pune,2025-03-01,March
+108,MEERA,Groceries,1200.0,Mumbai,2025-03-05,March
+109,AMAN,Electronics,5000.0,Delhi,2025-03-20,March
+110,SNEHA,Fashion,3000.0,Delhi,2025-03-25,March
