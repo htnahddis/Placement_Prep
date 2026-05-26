@@ -10,7 +10,7 @@ arr2 = np.concatenate((arr, arr1), axis=0)
 print(arr2)
 print("\n" )
 
-arr3 = np.concatenate((arr, arr1), axis=)
+arr3 = np.concatenate((arr, arr1), axis=0)
 print(arr3)
 print("\n" )
 
