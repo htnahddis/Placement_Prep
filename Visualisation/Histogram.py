@@ -5,7 +5,8 @@ import numpy as np
 
 """
 Default values in y axis in histogram are counts
-
+if you have otuliers mean != median != mode, if you have normal distribution mean = median = mode,
+ if you have left skewed distribution mean < median < mode, if you have right skewed distribution mean > median > mode
 """
 
 #Skwed distribution: left skewed distribution, right skewed distribution, normal distribution
