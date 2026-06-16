@@ -1,0 +1,14 @@
+
+    This is sample content for file 1.
+    It contains around 100 words of text.
+    You can use this content for testing file reading,
+    vector databases, embeddings, document loaders,
+    or any NLP-related task. The content discusses
+    artificial intelligence, machine learning,
+    software development, and data processing.
+    Engineers often work with large datasets and
+    require efficient methods to store, retrieve,
+    and analyze information. Python provides many
+    useful libraries such as pandas, numpy, and
+    scikit-learn that simplify these tasks.
+    

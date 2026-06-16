@@ -1,0 +1,13 @@
+
+    This is sample content for file 2.
+    The document focuses on web development using
+    modern frameworks. React is a popular JavaScript
+    library for building user interfaces, while
+    backend services can be created using Flask,
+    Django, or FastAPI. Developers frequently use
+    Git for version control and GitHub for
+    collaboration. Good software design emphasizes
+    maintainability, readability, and scalability.
+    Testing and continuous integration help ensure
+    that applications remain reliable as they grow.
+    
